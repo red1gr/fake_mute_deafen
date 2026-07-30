@@ -1,4 +1,4 @@
-# FAKE_MUTE_DEAFEN DISCORD
+# FAKE MUTE DEAFEN DISCORD
 
 [![GitHub issues](https://img.shields.io/github/issues/red1gr/fake_mute_deafen?style=for-the-badge&logo=github&logoColor=white)](https://github.com/red1gr/fake_mute_deafen/issues)
 [![GitHub license](https://img.shields.io/github/license/red1gr/fake_mute_deafen?style=for-the-badge&logo=apache&logoColor=white)](LICENSE)
